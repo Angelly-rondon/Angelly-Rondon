@@ -41,5 +41,5 @@ Fell free to explore my work here 🥰
 <br>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelly-rondon&layout=compact&theme=vision-friendly-dark" alt="Angelly Rondon's most languages"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelly-rondon&layout=compact&theme=vision-friendly-dark" alt="Angelly Rondon's most languages"/>
 </p>
