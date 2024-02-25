@@ -20,7 +20,8 @@ Nowadays i'm studyng Analisys and Systems Development, i work in some projects a
 I love to learn about how softwares and hardwares work, and how the technology can help us to solve real problems.
 Fell free to explore my work here 🥰
 
-💻 You can find more about my profissional work in my LinkedIn, by the link below: \n
+💻 You can find more about my profissional work in my LinkedIn, by the link below:
+
 www.linkedin.com/in/angelly-rondon-lkd205540
 
 <!--
