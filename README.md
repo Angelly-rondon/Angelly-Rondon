@@ -21,8 +21,9 @@ I love to learn about how softwares and hardwares work, and how the technology c
 Fell free to explore my work here 🥰
 
 💻 You can find more about my profissional work in my LinkedIn, by the link below:
-
-www.linkedin.com/in/angelly-rondon-lkd205540
+<div>
+<a href="www.linkedin.com/in/angelly-rondon-lkd205540" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 <!--
 ## Contact
