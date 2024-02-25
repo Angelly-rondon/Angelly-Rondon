@@ -22,7 +22,7 @@ Fell free to explore my work here 🥰
 
 💻 You can find more about my profissional work in my LinkedIn, by the link below:
 <div>
-<a href="www.linkedin.com/in/angelly-rondon-lkd205540" target="_blank"><img src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Frockcontent.com%2Fbr%2Fblog%2Ftamanho-de-imagens-no-linkedin%2F&psig=AOvVaw1-JWbQ675X6DXs7CpUF_-I&ust=1708918759696000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDQ4c7IxYQDFQAAAAAdAAAAABAE)" target="_blank"></a>
+<a href="www.linkedin.com/in/angelly-rondon-lkd205540" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <!--
