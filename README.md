@@ -40,8 +40,3 @@ Atualmente estou em transição para a área de Segurança da Informação, curs
 </p>
 -->
 <br>
-<br>
-
-<p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelly-rondon&layout=compact&theme=vision-friendly-dark" alt="Angelly Rondon's most languages"/>
-</p>
