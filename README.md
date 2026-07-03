@@ -1,4 +1,4 @@
-### Welcome to my profile! 🦕
+### Bem vindo ao meu perfil! 🛡️
 
 <!--
 *Angelly-rondon/Angelly-Rondon* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Angelly😊
-Nowadays i'm studyng Analisys and Systems Development, i work in some projects at my college that are saved here in GitHub! 
-I love to learn about how softwares and hardwares work, and how the technology can help us to solve real problems.
-Fell free to explore my work here 🥰
+Olá! Me chamo Angelly e atuo na área de Tecnologia da Informação com foco em Quality Assurance. Tenho experiência em validação de aplicações web e mobile, investigação de falhas, análise de dados e documentação técnica.
 
-💻 You can find more about my profissional work in my LinkedIn, by the link below:
+Atualmente estou em transição para a área de Segurança da Informação, cursando pós-graduação e desenvolvendo estudos voltados a SOC, Blue Team e investigação de incidentes.
+  Tenho interesse em entender como sistemas se comportam, identificar causas de problemas e analisar evidências para resolução de incidentes.
+
+💻 Aqui você encontrará projetos acadêmicos e estudos em evolução na área de tecnologia e segurança.
+
+🔗 Mais sobre minha experiência profissional no LinkedIn abaixo.
 <div>
 <a href="https://www.linkedin.com/in/angelly-rondon-lkd205540" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
